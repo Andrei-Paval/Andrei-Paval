@@ -6,9 +6,10 @@ I'm a Computer Engineering graduate from Romania.
 - [Codeforces Profile](https://codeforces.com/profile/andre-andrei)
 
 ## Projects
+- [Sports Team Website API](https://github.com/Andrei-Paval/sports-team-website-api)
 
 ## CV
-[CV.pdf](./CV.pdf)
+- [CV.pdf](./CV.pdf)
 <!--
 **Andrei-Paval/Andrei-Paval** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
