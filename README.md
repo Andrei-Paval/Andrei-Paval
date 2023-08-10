@@ -1,10 +1,14 @@
-### Hi there 👋
+## Hi there 👋
 I'm a Computer Engineering graduate from Romania.
 
-### CV 
-[CV.pdf](https://github.com/Andrei-Paval/Andrei-Paval/files/12314111/CV.pdf)
+## CV 
+- [CV.pdf](https://github.com/Andrei-Paval/Andrei-Paval/files/12314111/CV.pdf)
 
-### Projects
+## Algorithmic Problems
+- [Leetcode Profile](https://leetcode.com/Andrei-Paval/)
+- [Codeforces Profile](https://codeforces.com/profile/andre-andrei)
+
+## Projects
 
 <!--
 **Andrei-Paval/Andrei-Paval** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
