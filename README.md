@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm a Computer Engineering graduate from Romania.
+I'm a Computer Science graduate from Romania.
 
 ## Algorithmic Problems
 - [Leetcode Profile](https://leetcode.com/Andrei-Paval/)
