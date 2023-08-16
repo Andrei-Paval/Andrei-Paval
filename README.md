@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm a Computer Science graduate from Romania.
+I'm a Computer Science graduate.
 
 ## Projects
 - [Sports Team Website API](https://github.com/Andrei-Paval/sports-team-website-api)
