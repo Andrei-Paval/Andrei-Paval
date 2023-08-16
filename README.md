@@ -7,6 +7,7 @@ I'm a Computer Science graduate from Romania.
 
 ## Projects
 - [Sports Team Website API](https://github.com/Andrei-Paval/sports-team-website-api)
+- [Covid-19 Stats Desktop App](https://github.com/Andrei-Paval/covid-stats-winforms)
 
 ## CV
 - [CV.pdf](./CV.pdf)
