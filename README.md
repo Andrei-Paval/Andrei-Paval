@@ -10,7 +10,7 @@ I'm a Computer Science graduate.
 - [Codeforces Profile](https://codeforces.com/profile/andre-andrei)
 
 ## Resume
-- [resume.pdf](./CV.pdf)
+- [resume.pdf](./resume.pdf)
 <!--
 **Andrei-Paval/Andrei-Paval** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
