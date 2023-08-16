@@ -1,13 +1,13 @@
 ## Hi there 👋
 I'm a Computer Science graduate from Romania.
 
-## Algorithmic Problems
-- [Leetcode Profile](https://leetcode.com/Andrei-Paval/)
-- [Codeforces Profile](https://codeforces.com/profile/andre-andrei)
-
 ## Projects
 - [Sports Team Website API](https://github.com/Andrei-Paval/sports-team-website-api)
 - [Covid-19 Stats Desktop App](https://github.com/Andrei-Paval/covid-stats-winforms)
+  
+## Algorithmic Problems
+- [Leetcode Profile](https://leetcode.com/Andrei-Paval/)
+- [Codeforces Profile](https://codeforces.com/profile/andre-andrei)
 
 ## CV
 - [CV.pdf](./CV.pdf)
