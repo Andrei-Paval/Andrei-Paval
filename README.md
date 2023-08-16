@@ -9,8 +9,8 @@ I'm a Computer Science graduate.
 - [Leetcode Profile](https://leetcode.com/Andrei-Paval/)
 - [Codeforces Profile](https://codeforces.com/profile/andre-andrei)
 
-## CV
-- [CV.pdf](./CV.pdf)
+## Resume
+- [Resume.pdf](./CV.pdf)
 <!--
 **Andrei-Paval/Andrei-Paval** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
