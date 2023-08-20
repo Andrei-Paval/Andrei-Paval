@@ -13,7 +13,7 @@ I'm a Computer Science graduate.
 ## Skills
 <img src="https://skillicons.dev/icons?i=java,js,py,cpp,cs" height=40 />
 
-<img src="https://skillicons.dev/icons?i=spring,nodejs,express,dotnet,react,html,css" height=40 />
+<img src="https://skillicons.dev/icons?i=spring,express,nodejs,react,html,css" height=40 />
 
 <img src="https://skillicons.dev/icons?i=postgres,postman,github,git,idea,vscode,visualstudio" height=40 />
 <!--
