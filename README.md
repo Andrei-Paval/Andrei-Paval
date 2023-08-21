@@ -11,11 +11,11 @@ I'm a Computer Science graduate.
 - [Covid-19 Stats Desktop App](https://github.com/Andrei-Paval/covid-stats-winforms)
 
 ## Skills
-<img src="https://skillicons.dev/icons?i=java,js,py,cpp,cs" height=40 />
+<img src="https://skillicons.dev/icons?i=java,spring,js,express,nodejs" height=40 />
 
-<img src="https://skillicons.dev/icons?i=spring,express,nodejs,react,html,css" height=40 />
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,mui" height=40 />
 
-<img src="https://skillicons.dev/icons?i=postgres,postman,github,git,idea,vscode,visualstudio" height=40 />
+<img src="https://skillicons.dev/icons?i=postgres,postman,github,git,idea,vscode" height=40 />
 <!--
 **Andrei-Paval/Andrei-Paval** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
