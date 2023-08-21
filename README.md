@@ -3,8 +3,8 @@ I'm a Computer Science graduate.
 
 [<img src="https://img.shields.io/badge/-Resume-white?logo=googledocs&logoColor=black" alt="" height=30 />](./Resume.pdf)
 [<img src="https://img.shields.io/badge/-Linkedin-white?logo=linkedin&logoColor&color=blue" alt="" height=30 />](https://linkedin.com/in/andrei-paval/)
-[<img src="https://img.shields.io/badge/-Leetcode-orange?logo=leetcode&logoColor=black" alt="" height=30 />](https://leetcode.com/Andrei-Paval/)
-[<img src="https://img.shields.io/badge/-Codeforces-white?logo=codeforces&logoColor=blue&color=e04428" alt="" height=30 />](https://codeforces.com/profile/andre-andrei)
+[<img src="https://img.shields.io/badge/-Leetcode-ffae00?logo=leetcode&logoColor=black" alt="" height=30 />](https://leetcode.com/Andrei-Paval/)
+[<img src="https://img.shields.io/badge/-Codeforces-orange?logo=codeforces&logoColor=0270b0" alt="" height=30 />](https://codeforces.com/profile/andre-andrei)
 
 ## Projects
 - [Sports Team Website API](https://github.com/Andrei-Paval/sports-team-website-api)
