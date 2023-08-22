@@ -9,6 +9,8 @@ I'm a Computer Science graduate.
 ## Projects
 - [Sports Team Website API](https://github.com/Andrei-Paval/sports-team-website-api)
 - [Covid-19 Stats Desktop App](https://github.com/Andrei-Paval/covid-stats-winforms)
+- [Ultimate Tic Tac Toe](https://github.com/Andrei-Paval/ultimate-tic-tac-toe)
+  - [andrei-paval.github.io/ultimate-tic-tac-toe](https://andrei-paval.github.io/ultimate-tic-tac-toe)
 
 ## Skills
 <img src="https://skillicons.dev/icons?i=java,spring,js,express,nodejs" height=40 />
