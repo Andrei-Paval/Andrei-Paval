@@ -13,11 +13,11 @@ I'm a Computer Science graduate.
   - [andrei-paval.github.io/ultimate-tic-tac-toe](https://andrei-paval.github.io/ultimate-tic-tac-toe)
 
 ## Skills
-<img src="https://skillicons.dev/icons?i=java,spring,js,express,nodejs" height=40 />
+<img src="https://skillicons.dev/icons?i=java,spring,ts,nodejs,express,nestjs" height=40 />
 
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,mui" height=40 />
+<img src="https://skillicons.dev/icons?i=js,react,html,css,tailwind,mui" height=40 />
 
-<img src="https://skillicons.dev/icons?i=postgres,postman,github,git,idea,vscode" height=40 />
+<img src="https://skillicons.dev/icons?i=git,github,postgres,postman,idea,vscode" height=40 />
 <!--
 **Andrei-Paval/Andrei-Paval** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
