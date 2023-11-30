@@ -14,7 +14,6 @@ I'm a Computer Science graduate.
 
 ## Skills
 <img src="https://skillicons.dev/icons?i=ts,nodejs,express,nestjs" height=40 />
-<img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven" height=40 />
 <img src="https://skillicons.dev/icons?i=js,react,html,css" height=40 />
 <img src="https://skillicons.dev/icons?i=prisma,sequelize,postgres,aws" height=40 />
 <img src="https://skillicons.dev/icons?i=vscode,idea,visualstudio,postman" height=40 />
