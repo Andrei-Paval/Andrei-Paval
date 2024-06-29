@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm a Computer Science graduate.
+I'm a Junior Back-End Developer.
 
 [<img src="https://img.shields.io/badge/-Resume-white?logo=googledocs&logoColor=black" alt="" height=30 />](./Resume.pdf)
 [<img src="https://img.shields.io/badge/-Linkedin-white?logo=linkedin&logoColor&color=blue" alt="" height=30 />](https://linkedin.com/in/andrei-paval/)
