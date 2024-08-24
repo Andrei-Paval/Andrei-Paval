@@ -14,7 +14,7 @@ I'm a Back-End Developer.
 
 ## Skills
 <img src="https://skillicons.dev/icons?i=ts,nodejs,express,nestjs" height=40 />
-<img src="https://skillicons.dev/icons?i=prisma,postgres,aws" height=40 />
+<img src="https://skillicons.dev/icons?i=prisma,postgres,mongo,aws" height=40 />
 <img src="https://skillicons.dev/icons?i=git,github,gitlab,postman" height=40 />
 <!--
 **Andrei-Paval/Andrei-Paval** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
