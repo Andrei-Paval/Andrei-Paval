@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm a Junior Back-End Developer.
+I'm a Back-End Developer.
 
 [<img src="https://img.shields.io/badge/-Resume-white?logo=googledocs&logoColor=black" alt="" height=30 />](./Resume.pdf)
 [<img src="https://img.shields.io/badge/-Linkedin-white?logo=linkedin&logoColor&color=blue" alt="" height=30 />](https://linkedin.com/in/andrei-paval/)
@@ -13,9 +13,8 @@ I'm a Junior Back-End Developer.
   - [andrei-paval.github.io/ultimate-tic-tac-toe](https://andrei-paval.github.io/ultimate-tic-tac-toe)
 
 ## Skills
-<img src="https://skillicons.dev/icons?i=ts,nodejs,express,nestjs,prisma" height=40 />
-<img src="https://skillicons.dev/icons?i=java,spring,maven,gradle,hibernate" height=40 />
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongo,aws" height=40 />
+<img src="https://skillicons.dev/icons?i=ts,nodejs,express,nestjs" height=40 />
+<img src="https://skillicons.dev/icons?i=prisma,postgres,aws" height=40 />
 <img src="https://skillicons.dev/icons?i=git,github,gitlab,postman" height=40 />
 <!--
 **Andrei-Paval/Andrei-Paval** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
