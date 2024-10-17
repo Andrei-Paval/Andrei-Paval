@@ -6,6 +6,7 @@ I'm a Software Developer.
 [<img src="https://img.shields.io/badge/-Codeforces-orange?logo=codeforces&logoColor=0270b0" alt="" height=30 />](https://codeforces.com/profile/andre-andrei)
 
 ## Projects
+- [Django Ecommerce](https://github.com/Andrei-Paval/django-ecommerce)
 - [Sports Team Website API](https://github.com/Andrei-Paval/sports-team-website-api)
 - [Covid-19 Stats Desktop App](https://github.com/Andrei-Paval/covid-stats-winforms)
 - [Ultimate Tic Tac Toe](https://github.com/Andrei-Paval/ultimate-tic-tac-toe)
