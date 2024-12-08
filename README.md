@@ -13,9 +13,10 @@ I'm a Software Developer.
   - [andrei-paval.github.io/ultimate-tic-tac-toe](https://andrei-paval.github.io/ultimate-tic-tac-toe)
 
 ## Skills
-<img src="https://skillicons.dev/icons?i=ts,nodejs,express,nestjs" height=40 />
-<img src="https://skillicons.dev/icons?i=prisma,postgres,mongo,aws" height=40 />
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,postman" height=40 />
+<img src="https://skillicons.dev/icons?i=py,django,ubuntu" height=40 />
+<img src="https://skillicons.dev/icons?i=ts,nestjs,prisma" height=40 />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,aws" height=40 />
+<img src="https://skillicons.dev/icons?i=git,github,postman" height=40 />
 <!--
 **Andrei-Paval/Andrei-Paval** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
