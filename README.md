@@ -15,6 +15,7 @@ I'm a Software Developer.
 ## Technologies 
 <img src="https://skillicons.dev/icons?i=py,django,ubuntu" height=40 />
 <img src="https://skillicons.dev/icons?i=ts,nestjs,prisma" height=40 />
+<img src="https://skillicons.dev/icons?i=js,html,css" height=40 />
 <img src="https://skillicons.dev/icons?i=postgres,mysql,aws" height=40 />
 <img src="https://skillicons.dev/icons?i=git,github,postman" height=40 />
 <!--
