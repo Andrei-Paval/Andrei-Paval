@@ -12,7 +12,7 @@ I'm a Software Developer.
 - [Ultimate Tic Tac Toe](https://github.com/Andrei-Paval/ultimate-tic-tac-toe)
   - [andrei-paval.github.io/ultimate-tic-tac-toe](https://andrei-paval.github.io/ultimate-tic-tac-toe)
 
-## Skills
+## Technologies 
 <img src="https://skillicons.dev/icons?i=py,django,ubuntu" height=40 />
 <img src="https://skillicons.dev/icons?i=ts,nestjs,prisma" height=40 />
 <img src="https://skillicons.dev/icons?i=postgres,mysql,aws" height=40 />
