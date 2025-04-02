@@ -1,7 +1,7 @@
 ## Hi there 👋
 I'm a Software Developer.
 
-[<img src="https://img.shields.io/badge/-Resume-white?logo=googledocs&logoColor=black" alt="" height=30 />](./Resume .pdf)
+[<img src="https://img.shields.io/badge/-Resume-white?logo=googledocs&logoColor=black" alt="" height=30 />](./Resume.pdf)
 [<img src="https://img.shields.io/badge/-Leetcode-ffae00?logo=leetcode&logoColor=black" alt="" height=30 />](https://leetcode.com/Andrei-Paval/)
 [<img src="https://img.shields.io/badge/-Codeforces-orange?logo=codeforces&logoColor=0270b0" alt="" height=30 />](https://codeforces.com/profile/andre-andrei)
 
