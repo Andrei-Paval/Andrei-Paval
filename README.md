@@ -5,7 +5,7 @@ I'm a Software Developer.
 [<img src="https://img.shields.io/badge/-Leetcode-ffae00?logo=leetcode&logoColor=black" alt="" height=30 />](https://leetcode.com/Andrei-Paval/)
 [<img src="https://img.shields.io/badge/-Codeforces-orange?logo=codeforces&logoColor=0270b0" alt="" height=30 />](https://codeforces.com/profile/andre-andrei)
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Andrei-Paval?theme=dark&font=IBM%20Plex%20Mono&ext=contest)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Andrei-Paval?theme=dark&font=IBM%20Plex%20Mono)
 
 ## Projects
 - [Django Ecommerce](https://github.com/Andrei-Paval/django-ecommerce)
